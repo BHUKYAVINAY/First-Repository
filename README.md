@@ -1,2 +1,2 @@
 # First-Repository
-Author-Bhukya Vinay
+Author-Bhukya Vinay (Student)
